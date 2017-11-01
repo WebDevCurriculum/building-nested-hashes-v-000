@@ -2,20 +2,16 @@ def second_challenge
   epic_tragedy = {
     montague: {
       #your key/value pairs here!
-      patriarch: { 
+      patriarch: {
             {
-        
+
         }
       },
       matriarch: {
-        attributes: {
-          name: ,
-          age:
+      {
         }
-      }
-
-      },
-    capulet: {
+      }, 
+      hero: {
       #your key/value pairs here!
       }
 
