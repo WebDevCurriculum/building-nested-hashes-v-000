@@ -22,6 +22,30 @@ def second_challenge
 
           }
             }
-}
+}, 
 
+  capulet: {
+    #your key/value pairs here!
+    patriarch: {
+          {
+
+      }
+    },
+    matriarch: {
+    {
+      }
+    },
+    hero: {
+      {}
+    #your key/value pairs here!
+  },
+    hero_friends: {
+    }
+
+        {
+
+        }
+          }
+} 
+}
 end
