@@ -22,7 +22,7 @@ def second_challenge
 
           }
             }
-}, 
+},
 
   capulet: {
     #your key/value pairs here!
@@ -46,6 +46,6 @@ def second_challenge
 
         }
           }
-} 
+}
 }
 end
