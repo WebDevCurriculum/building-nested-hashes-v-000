@@ -44,7 +44,7 @@ def second_challenge
 
         {
 
-        }
+        },
           }
 }
 
